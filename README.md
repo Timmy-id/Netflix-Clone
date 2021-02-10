@@ -1,6 +1,6 @@
 ## Netflix-Clone
 
-This is Netflix clone app (homepage) built using React, Javascript, and CSS.
+This is a Netflix clone app (homepage) built using React, Javascript, and CSS.
 
 ## Project Screen Shot(s)
 
